@@ -48,7 +48,7 @@ To set up your environment, use `pip` to install the required packages:
 ```bash
 pip install gym
 pip install stable-baselines3
-
+```
 
 https://github.com/user-attachments/assets/3e265f9b-580a-4df4-a360-9faf4c38512b
 
